@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: #0f8eae;
+}
+
+div.mine {
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 55%;
+    background-color: #fff;
+    color: #0f8eae;
+}
+
+div.user {
+    margin: 0;
+    padding: 0;
+    float: right;
+    width: 45%;
+    background-color: #fff;
+    color: #0f8eae;
+}
+
+textarea.write {
+    color: black;
+}
